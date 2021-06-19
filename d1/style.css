@@ -1,4 +1,7 @@
 .body{
     margin: 0;
     background-color: silver;
+
+    color: red;
+    font-size: 40px;
 }
